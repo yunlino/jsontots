@@ -1,0 +1,19 @@
+{
+    "name": "Serpent",
+    "age": 18,
+    "stringArr": [
+        "a",
+        "b",
+        "c"
+    ],
+    "numberArr": [
+        1,
+        2,
+        3
+    ],
+    "boolArr": [
+        true,
+        false,
+        true
+    ]
+}
